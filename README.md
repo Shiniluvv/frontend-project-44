@@ -4,3 +4,4 @@
 [![brain-calc demo](https://asciinema.org/a/e7LGTdoo08mvQTBq7uAwoDyEW.svg)](https://asciinema.org/a/e7LGTdoo08mvQTBq7uAwoDyEW)
 [![brain-calc demo](https://asciinema.org/a/f5vx1ehqHsvK2qOzrBae9EPYm.svg)](https://asciinema.org/a/f5vx1ehqHsvK2qOzrBae9EPYm)
 [![brain-calc demo](https://asciinema.org/a/ShlaQuPOsRSIV2LRd2ealIX1s.svg)](https://asciinema.org/a/ShlaQuPOsRSIV2LRd2ealIX1s)
+[![brain-calc demo](https://asciinema.org/a/QoehN6Lp608Cf2ICMlATIIZi5.svg)](https://asciinema.org/a/QoehN6Lp608Cf2ICMlATIIZi5)
