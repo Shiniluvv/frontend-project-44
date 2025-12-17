@@ -2,4 +2,4 @@
 import { generateRound, getGameRules } from '../src/games/even.js'
 import runGame from '../src/engine.js'
 
-runGame(generateRound, getGameRules)
+runGame(getGameRules, generateRound)
