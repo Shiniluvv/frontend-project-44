@@ -1,4 +1,4 @@
-import stylistic from '@stylistic/eslint-plugin';
+import stylistic from '@stylistic/eslint-plugin'
 
 export default [
   {
@@ -9,7 +9,7 @@ export default [
       '@stylistic/indent': ['error', 2],
       '@stylistic/linebreak-style': ['error', 'unix'],
       '@stylistic/quotes': ['error', 'single'],
-      '@stylistic/semi': ['error', 'always'],
+      '@stylistic/semi': ['error', 'never'],
     },
   },
-];
+]
